@@ -8,19 +8,19 @@
 
 <p align="left"> <a href="https://twitter.com/@_shubham_9208" target="blank"><img src="https://img.shields.io/twitter/follow/@_shubham_9208?logo=twitter&style=for-the-badge" alt="@_shubham_9208" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://shubham-9208.github.io/depository/](https://shubham-9208.github.io/depository/)
 
-- 💬 Ask me about **HTML,Css,Javascript,React,Tailwind**
+- 💬 Ask me about **HTML,Css,Javascript,React,Next js,Tailwind,GSAP**
 
 - 📫 How to reach me **shubhammaurya9208@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@_shubham_9208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_shubham_9208" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/shubhammaurya2527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhammaurya2527" height="30" width="40" /></a>
-<a href="https://instagram.com/__shubham_km" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__shubham_km" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
