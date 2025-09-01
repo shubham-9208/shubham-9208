@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [https://shubham-9208.github.io/depository/](https://shubham-9208.github.io/depository/)
+- 👨‍💻 All of my projects are available at [https://shubhhhdev.vercel.app/](https://shubhhhdev.vercel.app/)
 
 - 💬 Ask me about **HTML,Css,Javascript,React,Next js,Tailwind,GSAP**
 
